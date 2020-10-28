@@ -26,5 +26,6 @@ if you want to contribute in this project, please respect these issues :\
  
  
 <br />
-<img src="https://devcrawlers.com/img/logo.png" width="220">
-<h4>DevCrawlers Open Soures</h4>
+<img src="https://devcrawlers.com/img/logo.png" width="186">
+<br />
+DevCrawlers Open Soures
